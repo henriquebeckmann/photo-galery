@@ -1,5 +1,4 @@
 import {
-  img_9279,
   img_9280,
   img_9288,
   img_9291,
@@ -84,7 +83,6 @@ import {
 } from "../../public/images";
 
 export const images = [
-  img_9279,
   img_9280,
   img_9288,
   img_9291,

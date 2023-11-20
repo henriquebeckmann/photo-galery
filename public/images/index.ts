@@ -1,4 +1,3 @@
-import img_9279 from "./IMG_9279.png";
 import img_9280 from "./IMG_9280.png";
 import img_9288 from "./IMG_9288.png";
 import img_9291 from "./IMG_9291.png";
@@ -82,7 +81,6 @@ import img_9816 from "./IMG_9816.png";
 import img_9821 from "./IMG_9821.png";
 
 export {
-img_9279,
 img_9280,
 img_9288,
 img_9291,
