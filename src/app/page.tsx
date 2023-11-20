@@ -20,7 +20,7 @@ export default function Home() {
         {images.map((image, index) => (
           <div
             key={index}
-            className="bg-zinc-950 rounded-xl overflow-hidden shadow-lg"
+            className="bg-zinc-950 rounded-xl overflow-hidden shadow-lg w-fit h-fit"
           >
             <Image
               src={image}
